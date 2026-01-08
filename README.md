@@ -17,7 +17,6 @@ O fluxo de dados segue a seguinte hierarquia:
 * **Controllers/Services:** Contêm as regras de negócio e validações.
 * **Repositories:** Responsáveis pela persistência de dados (PostgreSQL) e interfaces de contrato.
 
-
 ## Ferramenta Utilizada para o Diagrama de Classe:
 * **Modelagem:** Astah UML
 
@@ -25,8 +24,11 @@ O fluxo de dados segue a seguinte hierarquia:
 
 Trabalho desenvolvido por:
 
-* **@Joao-Vitor-Rd**
-* **@cauanrricardo**
+## 👥 Autores
+
+* **[@Joao-Vitor-Rd](https://github.com/Joao-Vitor-Rd)**
+* **[@cauanrricardo](https://github.com/cauanrricardo)**
+
 
 
 ---
